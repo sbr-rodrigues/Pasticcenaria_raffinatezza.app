@@ -95,6 +95,6 @@ Cardápio: lista de produtos com imagens e tipografia refinada
 Favoritos: itens marcados com estrela dourada
 
 🔗 7. Referências
-Repositório GitHub: Pasticcenaria_Raffinatezza
+Repositório GitHub: Pasticcenaria-Raffinatezza
 Inspirações em apps de restaurantes e confeitarias premium
 Materiais da formação UX Designer (DIO)
